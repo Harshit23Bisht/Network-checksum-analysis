@@ -23,16 +23,6 @@ This project demonstrates checksum validation and network packet analysis using 
 
 ---
 
-## 📂 Project Structure
-network-checksum-analysis
-│
-├── checksum_validation.py
-├── sample_capture.pcap
-└── report.pdf
-
-
----
-
 ## 🔍 Methods Implemented
 
 ### Method 1 – Wireshark Validation
@@ -57,10 +47,4 @@ Python script uses Scapy to:
 - Compare original and computed results
 
 ---
-
-## ▶️ How To Run The Code
-
-1. Install Scapy:
-2. Place PCAP file in project folder.
-3. Run script:
 
